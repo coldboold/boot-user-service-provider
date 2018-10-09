@@ -27,7 +27,7 @@ public class UserServiceImpl implements UserService {
 
     @Override
     public void sayHello() {
-        System.out.println("ＨＥＬＬＯ　ＹＳＸＬＸＳＨ");
+        System.out.println("ＨＥＬＬＯ　ＭＵＭＵ");
     }
 
 
